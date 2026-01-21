@@ -2,7 +2,7 @@
 
 Hello! My name is Elliot Krawczyk. I study at the University of Washington. This page says a little about me.
 
-![A headshot of Elliot Krawczyk](dubs.jpg)
+![A headshot of Elliot Krawczyk](headshot.jpg)
 
 ## Academics
 
@@ -11,9 +11,9 @@ I plan to become a software engineer or IT specialist/
 
 Here is a list of my favorite classes at UW:
 
-- [Databases and Data Modeling](https://myplan.uw.edu/course/#/courses/INFO330?states=N4Ig7gDgziBcLADrgJYDsAmB7MAJApigOYAWALsrAIwCsALAEwA0yY62YACllCmSljSUGANgC%2BIMUA)
-- [Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)
-- [Introduction to Professional and Technical Writing](https://english.washington.edu/courses/2024/winter/engl/288/g)
+- [Programming Languages](https://courses.cs.washington.edu/courses/cse341/index.html)
+- [Quantitative Introductory Stats for Data Science](https://stat.uw.edu/academics/course-catalog/stat-391)
+- [Software Documentation](https://english.washington.edu/courses/2025/spring/engl/396/a)
 
 ## Programming Background
 
