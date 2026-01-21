@@ -7,7 +7,7 @@ Hello! My name is Elliot Krawczyk. I study at the *University of Washington*. Th
 ## Academics
 
 I am majoring in Computer Science and Statistics. I am currently enrolled in **ENGL396: Software Documentation**. When I graduate, 
-I plan to become a software engineer or IT specialist/ 
+I plan to become a software engineer or IT specialist
 
 Here is a list of my favorite classes at UW:
 
