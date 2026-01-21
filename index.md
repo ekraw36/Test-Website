@@ -34,5 +34,6 @@ One of my favorite quotes is from The Stormlight Archive book series by Brandon 
 
 ## Other projects
 
-[More about me!] (about.html)
-[My personal website] (https://students.washington.edu/ekraw/)
+[More about me!](about.html)
+
+[My personal website](https://students.washington.edu/ekraw/)
