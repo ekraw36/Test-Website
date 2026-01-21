@@ -2,7 +2,7 @@
 
 Hello! My name is Elliot Krawczyk. I study at the *University of Washington*. This page says a little about me.
 
-<img src="headshot.jpg" alt="A headshot of Elliot Krawczyk" width="200">
+<img src="headshot.jpg" alt="A headshot of Elliot Krawczyk" width="250">
 
 ## Academics
 
@@ -21,9 +21,9 @@ I have some experience with programming, starting with college classes in highsc
 
 | Language | Experience |
 |---------:|------------|
-| Java     | Proficent. Have taken many Java classes  |
-|  HTML    | Authored a personal webpage    |
-|  C++     | Took one C++ class in highschool       |
+| *Java*     | Proficent. I have taken many Java classes  |
+|  *HTML*    | Authored a personal webpage    |
+|  *C++*     | Took one C++ class in highschool       |
 
 
 ## Words of Wisdom
